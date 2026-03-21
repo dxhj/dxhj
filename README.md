@@ -7,9 +7,9 @@
 ██║  ██║ ██╔██╗ ██╔══██║██   ██║
 ██████╔╝██╔╝ ██╗██║  ██║╚█████╔╝
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
+```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A29BFE&width=435&lines=aka+Victor+Martins)](https://git.io/typing-svg)
-```
 
 ### 👾 developer by day. developer by night. just vibing. 👾
 
