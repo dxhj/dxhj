@@ -65,6 +65,8 @@
       <p>Compiler for <strong>Sara</strong>, a custom-built programming language — because why use an existing one when you can roll your own?</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white"/>
+      </p>
       </p>
       <a href="https://github.com/dxhj/sarac">
         <img src="https://img.shields.io/badge/view_repo-a29bfe?style=for-the-badge&logo=github&logoColor=white"/>
