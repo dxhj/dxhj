@@ -54,6 +54,65 @@
 
 ---
 
+<div align="center">
+
+## 🛠️ stuff i actually built
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦜 sarac</h3>
+      <p>Compiler for <strong>Sara</strong>, a custom-built programming language — because why use an existing one when you can roll your own?</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <a href="https://github.com/dxhj/sarac">
+        <img src="https://img.shields.io/badge/view_repo-a29bfe?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 predictive-parser</h3>
+      <p>A clean LL(1) parser implementation in Python. Parses context-free grammars with support for epsilon productions and FIRST/FOLLOW sets.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <a href="https://github.com/dxhj/predictive-parser">
+        <img src="https://img.shields.io/badge/view_repo-a29bfe?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 brainfuck-compiler</h3>
+      <p>A Brainfuck compiler targeting <strong>C</strong>, <strong>MIPS</strong>, and <strong>i386</strong> assembly. Eight symbols. Three backends. Zero chill.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+        <img src="https://img.shields.io/badge/NASM-gray?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MIPS-gray?style=flat-square"/>
+      </p>
+      <a href="https://github.com/dxhj/Brainfuck-Compiler">
+        <img src="https://img.shields.io/badge/view_repo-a29bfe?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 mcp-protocol</h3>
+      <p>Full MCP demo stack — Express API + MCP server + Groq LLM client. Query users and cars in plain English. TypeScript all the way down.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Groq-FF6B35?style=flat-square"/>
+      </p>
+      <a href="https://github.com/dxhj/mcp-protocol">
+        <img src="https://img.shields.io/badge/view_repo-a29bfe?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 **thanks for dropping by! drop a ⭐ if you vibed with anything here.**
 
 `while (alive) { eat(); sleep(); code(); repeat(); }`
