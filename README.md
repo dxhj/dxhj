@@ -1,8 +1,5 @@
 <div align="center">
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=60&duration=1&pause=999999&color=fa0c40&center=true&vCenter=true&repeat=false&width=500&height=100&lines=DXHJ" alt="DXHJ" />
-
 ```
 ██████╗ ██╗  ██╗██╗  ██╗     ██╗
 ██╔══██╗╚██╗██╔╝██║  ██║     ██║
@@ -11,7 +8,7 @@
 ██████╔╝██╔╝ ██╗██║  ██║╚█████╔╝
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
 
-aka Victor Martins
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A29BFE&width=435&lines=aka+Victor+Martins)](https://git.io/typing-svg)
 ```
 
 ### 👾 developer by day. developer by night. just vibing. 👾
