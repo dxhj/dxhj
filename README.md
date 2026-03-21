@@ -7,6 +7,8 @@
 ██║  ██║ ██╔██╗ ██╔══██║██   ██║
 ██████╔╝██╔╝ ██╗██║  ██║╚█████╔╝
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
+
+aka Victor Martins
 ```
 
 ### 👾 developer by day. developer by night. just vibing. 👾
