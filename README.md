@@ -34,7 +34,7 @@
 
 <div align="center">
 
-## 📊 the stats (aka proof i actually commit)
+## 📊 the stats (proof i actually commit)
 
 ![dxhj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxhj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&icon_color=ff6b6b&text_color=ffffff)
 
