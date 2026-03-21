@@ -91,8 +91,6 @@ const dxhj = {
 
 ![Snake animation](https://raw.githubusercontent.com/dxhj/dxhj/output/github-contribution-grid-snake-dark.svg)
 
-*(set up the snake action to make this work! 🐍)*
-
 ---
 
 **thanks for dropping by! drop a ⭐ if you vibed with anything here.**
