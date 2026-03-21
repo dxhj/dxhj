@@ -63,30 +63,6 @@ const dxhj = {
 
 <div align="center">
 
-## 🎮 currently
-
-| 🔨 working on | 📚 learning | 🎯 goal of the month |
-|:---:|:---:|:---:|
-| something awesome | something new | ship something |
-
-</div>
-
----
-
-<div align="center">
-
-## 💬 random dev wisdom
-
-> *"Any fool can write code that a computer can understand.*
-> *Good programmers write code that humans can understand."*
-> — Martin Fowler (probably while debugging spaghetti code)
-
-</div>
-
----
-
-<div align="center">
-
 ### 🐍 contribution snake
 
 ![Snake animation](https://raw.githubusercontent.com/dxhj/dxhj/output/github-contribution-grid-snake-dark.svg)
