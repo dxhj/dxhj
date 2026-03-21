@@ -48,14 +48,6 @@
 
 <div align="center">
 
-### 🐍 contribution snake
-
-![Snake animation](https://raw.githubusercontent.com/dxhj/dxhj/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<div align="center">
-
 ## 🛠️ stuff i actually built
 
 <table>
@@ -112,6 +104,14 @@
 </table>
 
 </div>
+
+---
+
+<div align="center">
+
+### 🐍 contribution snake
+
+![Snake animation](https://raw.githubusercontent.com/dxhj/dxhj/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
