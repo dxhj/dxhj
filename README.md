@@ -15,25 +15,6 @@
 [![Profile views](https://komarev.com/ghpvc/?username=dxhj&style=for-the-badge&color=a29bfe&label=VISITORS)](https://github.com/dxhj)
 [![GitHub stars](https://img.shields.io/github/stars/dxhj?style=for-the-badge&logo=github&color=ffd93d&labelColor=1a1a2e)](https://github.com/dxhj)
 
-</div>
-
----
-
-```javascript
-const dxhj = {
-  status:     "⚡ building something cool",
-  mood:       "☕ caffeinated",
-  location:   "somewhere between a bug and a feature",
-  philosophy: "if it works, don't touch it. if it doesn't, blame cache.",
-};
-```
-
----
-
-<div align="center">
-
-## 🛠️ weapons of choice
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
