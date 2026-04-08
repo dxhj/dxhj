@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A29BFE&center=true&vCenter=true&width=435&lines=aka+Victor+Martins)](https://git.io/typing-svg)
 
-### 👾 developer by day. developer by night. just vibing. 👾
+### 👾 developer by day. developer by night. 👾
 
 [![GitHub followers](https://img.shields.io/github/followers/dxhj?style=for-the-badge&logo=github&color=ff6b6b&labelColor=1a1a2e)](https://github.com/dxhj)
 [![Profile views](https://komarev.com/ghpvc/?username=dxhj&style=for-the-badge&color=a29bfe&label=VISITORS)](https://github.com/dxhj)
