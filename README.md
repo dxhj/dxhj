@@ -36,10 +36,6 @@
 
 ## 📊 the stats (proof i actually commit)
 
-![dxhj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxhj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a29bfe&icon_color=ff6b6b&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dxhj&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=dxhj&theme=tokyonight&hide_border=true&background=0d1117&ring=a29bfe&fire=ff6b6b&currStreakLabel=ffd93d)
 
 </div>
